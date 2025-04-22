@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👨‍💻
+# Hi, I'm Anya 👨‍💻
 
 I'm a passionate **Mobile Developer** and **Game Developer** with a strong background in **Java** and **C++**. I specialize in creating mobile applications and developing computer and console games.
 
