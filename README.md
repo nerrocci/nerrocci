@@ -6,10 +6,10 @@ I'm a passionate **Mobile Developer** and **Game Developer** with a strong backg
 <div align="center">
   <a href="https://discord.com/users/_nerocci">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
-  </a>
+  </a> <br>
   <a href="https://instagram.com/_nerocci">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
+  </a><br>
   <a href="mailto:kittybubu.uwu@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
