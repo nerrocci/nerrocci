@@ -5,13 +5,13 @@ I'm a passionate **Mobile Developer** and **Game Developer** with a strong backg
 ## Let's connect:
 <div align="center">
   <a href="https://discord.com/users/_nerocci">
-    <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" style="border-radius: 50%; width: 50px; height: 50px;" />
+    <img src="https://img.icons8.com/ios-filled/50/ff69b4/discord-logo.png" style="border-radius: 50%; width: 50px; height: 50px;" />
   </a>
   <a href="https://instagram.com/_nerocci">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" style="border-radius: 50%; width: 50px; height: 50px;" />
+    <img src="https://img.icons8.com/ios-filled/50/ff69b4/instagram-new.png" style="border-radius: 50%; width: 50px; height: 50px;" />
   </a>
   <a href="mailto:kittybubu.uwu@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" style="border-radius: 50%; width: 50px; height: 50px;" />
+    <img src="https://img.icons8.com/ios-filled/50/ff69b4/gmail.png" style="border-radius: 50%; width: 50px; height: 50px;" />
   </a>
 </div>
 
