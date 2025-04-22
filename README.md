@@ -1,4 +1,4 @@
-# Hi, I'm Anya <img src="https://media.discordapp.net/attachments/1364182156490047499/1364203488439046174/SPERAM.jpg?ex=6808d101&is=68077f81&hm=e235add5bddeb7a317e5dac6b652c2cbeb29fee10b17df13ff37ce97c47ef85b&=&format=webp"/>
+# Hi, I'm Anya <img src="[https://media.discordapp.net/attachments/1364182156490047499/1364203488439046174/SPERAM.jpg?ex=6808d101&is=68077f81&hm=e235add5bddeb7a317e5dac6b652c2cbeb29fee10b17df13ff37ce97c47ef85b&=&format=webp](https://cdn.discordapp.com/emojis/1170673025872580648.webp?size=96)"/>
 
 I'm a passionate **Mobile Developer** and **Game Developer** with a strong background in **Java** and **C++**. I specialize in creating mobile applications and developing computer and console games.
 
