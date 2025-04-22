@@ -41,8 +41,8 @@ Building mobile apps and exploring new opportunities in game development.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nerocci&show_icons=true&theme=dracula&hide_border=true&border_radius=12&icon_color=ff69b4&title_color=ff69b4&text_color=ffffff" alt="Anya's GitHub stats" style=" width: 500px; />
+  <img src="https://github-readme-stats.vercel.app/api?username=nerocci&show_icons=true&theme=dracula&hide_border=true&border_radius=12&icon_color=ff69b4&title_color=ff69b4&text_color=ffffff" alt="Anya's GitHub stats" style=" width: 500px;" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerocci&layout=compact&theme=dracula&hide_border=true&card_width=320&langs_count=6&title_color=ff69b4&text_color=ffffff" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerocci&layout=compact&theme=dracula&hide_border=true&card_width=320&langs_count=6&title_color=ff69b4&text_color=ffffff" alt="Top languages" style=" width: 500px;" />
 </p>
