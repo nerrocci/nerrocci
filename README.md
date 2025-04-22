@@ -11,7 +11,7 @@ I'm a passionate **Mobile Developer** and **Game Developer** with a strong backg
     <img src="[https://img.icons8.com/ios-filled/50/ff69b4/instagram-new.png](https://cdn.discordapp.com/attachments/1364182156490047499/1364211120134426705/Instagram-64.webp?ex=6808d81c&is=6807869c&hm=302cc38ba0aed278e47ef1f55d84de09d0fd4ce8b3ee6b1495bb4a75352104ac&)" style="border-radius: 50%; width: 50px; height: 50px;" />
   </a>
   <a href="mailto:kittybubu.uwu@gmail.com">
-    <img src="[https://img.icons8.com/ios-filled/50/ff69b4/gmail.png](https://cdn.discordapp.com/attachments/1364182156490047499/1364211119744614541/Gmail_envelope_letter_email_Gmail_envelope_letter_email-64.webp?ex=6808d81c&is=6807869c&hm=932e22bf04da529988638dc1af8425ada28343cf0f2e63e6d4e2aaa0198daf89&)" style="border-radius: 50%; width: 50px; height: 50px;" />
+    <img src="https://media.discordapp.net/attachments/1364182156490047499/1364211119744614541/Gmail_envelope_letter_email_Gmail_envelope_letter_email-64.webp?ex=6808d81c&is=6807869c&hm=932e22bf04da529988638dc1af8425ada28343cf0f2e63e6d4e2aaa0198daf89&=&format=webp" style="border-radius: 50%; width: 50px; height: 50px;" />
   </a>
 </div>
 
