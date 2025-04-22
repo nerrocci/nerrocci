@@ -5,18 +5,17 @@ I'm a passionate **Mobile Developer** and **Game Developer** with a strong backg
 ## Let's connect:
 <div align="center">
   <a href="https://discord.com/users/_nerocci">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
-  </a> <br>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=7289DA&logoWidth=30" style="border-radius: 50%; width: 50px; height: 50px;" />
+  </a> 
   <a href="https://instagram.com/_nerocci">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a><br>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&logoWidth=30" style="border-radius: 50%; width: 50px; height: 50px;" />
+  </a>
   <a href="mailto:kittybubu.uwu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&logoWidth=30" style="border-radius: 50%; width: 50px; height: 50px;" />
   </a>
 </div>
 
-
-##  Technologies I work with:
+## Technologies I work with:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -36,4 +35,3 @@ I'm a passionate **Mobile Developer** and **Game Developer** with a strong backg
 
 ## Currently working on:
 Building mobile apps and exploring new opportunities in game development.
-
