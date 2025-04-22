@@ -3,7 +3,7 @@
 I'm a passionate **Mobile Developer** and **Game Developer** with a strong background in **Java** and **C++**. I specialize in creating mobile applications and developing computer and console games.
 
 ## Let's connect:
-<div>
+<div align="center">
   <a href="https://discord.com/users/_nerocci">
     <img src="https://cdn.discordapp.com/attachments/1364182156490047499/1364211119404613672/discord-64.webp?ex=6808d81c&is=6807869c&hm=fe4fdfd0e786a69673c74aabbb852d0dca345bc92aaf2a712ed1bfa6ab6f5aad&" style=" width: 50px; height: 50px;"/>
   </a>
