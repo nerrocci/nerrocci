@@ -8,7 +8,7 @@ I'm a passionate **Mobile Developer** and **Game Developer** with a strong backg
     <img src="https://cdn.discordapp.com/attachments/1364182156490047499/1364211119404613672/discord-64.webp?ex=6808d81c&is=6807869c&hm=fe4fdfd0e786a69673c74aabbb852d0dca345bc92aaf2a712ed1bfa6ab6f5aad&" style=" width: 50px; height: 50px;"/>
   </a>
   <a href="https://instagram.com/_nerocci">
-    <img src="https://media.discordapp.net/attachments/1364182156490047499/1364211120134426705/Instagram-64.webp?ex=6808d81c&is=6807869c&hm=302cc38ba0aed278e47ef1f55d84de09d0fd4ce8b3ee6b1495bb4a75352104ac&=&format=webp" style=" width: 50px; height: 50px;"/>
+    <img src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram&page=1&position=2&origin=search&related_id=174855" style=" width: 50px; height: 50px;"/>
   </a>
 </div>
 
