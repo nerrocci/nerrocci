@@ -7,9 +7,6 @@ I'm a passionate **Mobile Developer** and **Game Developer** with a strong backg
   <a href="https://discord.com/users/_nerocci">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" style=" width: 50px; height: 50px;"/>
   </a>
-  <a href="https://instagram.com/_nerocci">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style=" width: 50px; height: 50px;"/>
-  </a>
 </div>
 
 ## Technologies I work with:
